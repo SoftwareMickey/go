@@ -1,0 +1,2 @@
+Hello Raven This is Go Programming I do not much of it but I'm getting a hang of it 
+Go is Probably fun but the actual fun is yet to begin
